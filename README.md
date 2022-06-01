@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Itumeleng97
-- 👀 I’m interested in Java nad other Programming languages
+- 👀 I’m interested in Java and other Programming languages
 - 🌱 I’m currently learning  java language
 - 💞️ I’m looking to collaborate on business 
 - 📫 How to reach me mohlala.itu.m@gmail.com it's my Email
